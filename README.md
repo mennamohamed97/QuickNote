@@ -8,7 +8,7 @@ QuickNote app is a flutter application which can be used to store the notes and 
 
 
 ## 🌟App
-<img src="https://github.com/mennamohamed97/QuickNote/blob/master/AppScreens.png" style="width: 450px;"/> 
+<img src="https://github.com/mennamohamed97/QuickNote/blob/master/AppScreens.png" style="width: 600px;"/> 
 
 
 ## 🌟App Icon & Name
