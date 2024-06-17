@@ -8,13 +8,9 @@ QuickNote app is a flutter application which can be used to store the notes and 
 
 
 ## 🌟App
-<img src="https://github.com/mennamohamed97/QuickNote/blob/master/AppScreens.png" style="width: 350px;"/>
+<img src="https://github.com/mennamohamed97/QuickNote/blob/master/AppScreens.png" style="width: 350px;"/> | <img src="https://github.com/mennamohamed97/QuickNote/blob/master/icon.png" style="width: 350px;"/>
 
-
-## 🌟AppIcon
-<img src="https://github.com/mennamohamed97/QuickNote/blob/master/icon.png" style="width: 350px;"/>
-
-
+ 
 ## 📌Built with
 - sqflite => https://pub.dev/packages/sqflite
 
