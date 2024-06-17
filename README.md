@@ -10,10 +10,7 @@ QuickNote app is a flutter application which can be used to store the notes and 
 ## 🌟Demo
 
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/mennamohamed97/QuickNote/blob/master/assets/QuickNote.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[![QuickNote Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/mennamohamed97/QuickNote/blob/master/assets/QuickNote.mp4)
 
 
 ## 🌟AppIcon
