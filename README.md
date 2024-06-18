@@ -21,7 +21,7 @@ QuickNote app is a flutter application which can be used to store the notes and 
 
 ## 🎯Features
 - Appear all notes
-- Date time created of note
+- Date created for each note
 - Create note
 - Update note
 - select note
